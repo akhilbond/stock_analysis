@@ -1,0 +1,27 @@
+{
+    "company_name": "Apple Inc. Common Stock (AAPL) Quote & Summary Data",
+    "ticker": "aapl",
+    "url": "http://www.nasdaq.com/symbol/aapl",
+    "open price": "$ 191",
+    "open_date": "Jun. 8, 2018",
+    "close_price": "$ 191.70",
+    "close_date": "Jun. 8, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "195",
+        "Today's High / Low": "$ 192 / $ 189.77",
+        "Share Volume": "26,656,799",
+        "50 Day Avg. Daily Volume": "29,662,884",
+        "Previous Close": "$ 193.46",
+        "52 Week High / Low": "$ 194.20 / $ 142.20",
+        "Market Cap": "942,231,954,600",
+        "P/E Ratio": "18.5",
+        "Forward P/E (1y)": "16.94",
+        "Earnings Per Share (EPS)": "$ 10.36",
+        "Annualized Dividend": "$ 2.92",
+        "Ex Dividend Date": "5/11/2018",
+        "Dividend Payment Date": "5/17/2018",
+        "Current Yield": "1.51 %",
+        "Beta": "1.04"
+    }
+}
